@@ -4,10 +4,6 @@
 programmers based on the IRC freenode network. It is specifically a
 polyglot group concerned to discuss programming ideas over the long-term.
 
-Its membership is predominantly from the Australian east coast but
-includes members from North America, New Zealand, and further. It was
-created in August, 2012.
-
 
 ## Specific Guidelines
 
